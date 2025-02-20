@@ -7,8 +7,11 @@ With over 5 years of software development experience, I’ve built and shipped i
 
 🔍 What I’m Working On
 🌍 Building sustainable mobility and local solutions to promote environmental responsibility. check out https://joinmicar.com
+
 📚 Teaching free programming courses in PHP and Python to underserved communities, focusing on non tech underpriveleged.
+
 🛠️ Developing AI-powered tools to improve accessibility and simplify tech for non-technical users. check out textvoice.ai
+
 🤝 Mentoring and supporting students through SPREADIT outreach programs, hackathons, and tech workshops.
 🌟 Community and Volunteer Work
 My volunteer experiences across Poland, Egypt, and Ivory Coast have given me a deep understanding of SDG initiatives and strengthened my passion for using technology to drive positive change. Through AIESEC, I led projects that focused on raising funds and building tech awareness in underserved communities.
